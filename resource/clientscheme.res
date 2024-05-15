@@ -809,7 +809,68 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
+
+		"NexyHeavy12"
+		{
+			"1"
+			{
+				"name"		"Nexa Heavy"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"NexyHeavy16"
+		{
+			"1"
+			{
+				"name"		"Nexa Heavy"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"NexyHeavy18"
+		{
+			"1"
+			{
+				"name"		"Nexa Heavy"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"NexyHeavy20"
+		{
+			"1"
+			{
+				"name"		"Nexa Heavy"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"NexyHeavy24"
+		{
+			"1"
+			{
+				"name"		"Nexa Heavy"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"NexyHeavy34"
+		{
+			"1"
+			{
+				"name"		"Nexa Heavy"
+				"tall"		"34"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
 		"Default"
 		{
 			"1"
@@ -6271,6 +6332,11 @@ Scheme
 		{
 			"font"	"resource/fonts/Roboto-Black.ttf"
 			"name"	"Roboto Regular"
+		}
+		"10"
+		{
+			"font"  "resource/Nexa-Heavy.ttf"
+			"name"  "Nexa Heavy"
 		}
 	}
 }
